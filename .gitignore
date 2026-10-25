@@ -1,0 +1,15 @@
+
+# Arquivos locais de acesso e teste
+.env
+.env.*
+!.env.example
+.venv/
+.venv-carga/
+__pycache__/
+*.pyc
+.streamlit/secrets*.toml
+access_*.csv
+acesso_grupo_*.txt
+export_private_*.json
+resultado_carga_*.json
+requirements.predeploy*.txt
